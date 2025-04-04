@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "titleRu": "Тянучка",
+      "titleEn": "Stickjaw",
+      "descRu": "Эстетика удалёнки",
+      "descEn": "The aesthetics of working remotely",
+      "bigDescRu" : "Моя первая анимация. На неё ушло слишком много времени, чем предполагалось. В итоге, она доделана и, если честно, я был в ней разочарован: все сырое, мало просмотров, к многому чему стремиться. После неё выгорел.",
+      "bigDescEn" : "My first animation ended up taking far longer than planned. Though I finished it, I’ll admit I was disappointed—it felt unpolished, barely got any traction, and highlighted how much I still need to learn. The whole experience left me burnt out.",
+      "thumb": "assets/anim/thumbs/0_stickjaw.jpg",
+      "link" : "https://youtu.be/n1TmUpfpuPI?si=zsYfB7viQ_RKi5u3",
+      "hasThumbs" : false,
+      "thumbs" : [
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "titleRu": "Заметка",
+      "titleEn": "Note",
+      "descRu": "Начало положено",
+      "descEn": "And so it begins",
+      "bigDescRu" : "Если вы читаете это, то значит мой сайт на просторах интернета, и скоро (надеюсь) я буду дополнять его своими работами и дальше модифицировать его. Можете пока посмотреть мои более удачные иллюстрации на одноименной вкладке на начальной странице",
+      "bigDescEn" : "And so it begins. If you’re reading this, it means my site is now live on the internet, and soon (hopefully) I’ll be adding more of my work and tweaking it further. For now, you can check out some of my better illustrations on the ‘Illustrations’ tab on a starting page.",
+      "thumb": "assets/vkhf_placeholder_thing.jpg",
+      "link" : "",
+      "hasThumbs" : false,
+      "thumbs" : [
+
+      ]
+    }
+  ]
+}

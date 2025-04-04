@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "titleWhoMeRu": "КТО Я?",
+      "textWhoMeRu": "Меня зовут Данил Данилов Сергеевич. Мой псведоним - Vuxkhiff.\n Интересуюсь иллюстрациями. Люблю переводить смешные фото и странные идеии в \"цифру\".\nМой подход - лучше поздно, чем никогда, но если правильно попросить, то можно и поторопиться.",
+      "titleWhoMeEn": "WHO AM I?",
+      "textWhoMeEn": "My name is Danil Danilov Sergeevich. My pseudonym is Vuxkhiff.\nI'm interested in illustrations. I love translating funny photos and strange ideas into \"digital\".\nMy approach is 'better late than never, but if you ask properly, I can hurry up.'",
+
+      "titleProffRu": "ПРОФ. ДЕЯТ.",
+      "textProffRu": "ООО \"МедСофт\".\n - Инженер-программист, 3 года.\n\nООО \"НЛМК ИНЖИНИРИНГ\".\n - Инженер, 1 год.\n\nНАВЫКИ/ТЕХНОЛОГИИ\n - Futter/Dart, Illustartor, Figma, XD, Blender, Cyclone, Autodesk Revit, Python.",
+      "titleProffEn": "PROFESSIONAL ACTIVITY",
+      "textProffEn": "LLC \"MedSoft\".\n - Software Engineer, 3 years.\n\nLLC \"NLMK ENGINEERING\".\n - Engineer, 1 year.\n\nSKILLS/TECHNOLOGIES\n - Flutter/Dart, Illustrator, Figma, XD, Blender, Cyclone, Autodesk Revit, Python.",
+
+      "titlePersonalRu": "ЛИЧНОЕ",
+      "textPersonalRu": "Когда приходит настроение делаю карты для игры на движке Source. (Чаще всего для Team Fortress 2).\nВдохновляет эмбиент и электроника, иногда звуки природы, геометрические фигуры, простые формы, тени и штрихи. Люблю мрачную и жуткую атмосферу.\nМогу сделать минималистичный постер в \"швейцарском\" стиле за несколько минут.",
+      "titlePersonalEn": "PERSONAL",
+      "textPersonalEn": "When in the mood, I create maps for games on the Source engine (mostly for Team Fortress 2).\nInspired by ambient and electronic music, sometimes nature sounds, geometric shapes, simple forms, shadows and strokes. I love dark and eerie atmospheres.\nI can create a minimalist poster in \"Swiss\" style in a few minutes.",
+
+      "titleReadyForRu": "К ЧЕМУ ГОТОВ?",
+      "textReadyForRu": "Могу делать иллюстрации на заказ по различным темам, небольшие (пока что) 3D-модели, текстуры и тому подобное.\nОткрыт для фриланс-проектов.\n",
+      "titleReadyForEn": "WHAT AM I READY FOR?",
+      "textReadyForEn": "I can create custom illustrations on various topics, small (for now) 3D models, textures and similar things.\nOpen for freelance projects."
+    }
+  ]
+}
